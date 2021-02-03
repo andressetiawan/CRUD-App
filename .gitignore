@@ -1,8 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/tugas10/client/node_modules
-/tugas10/server/node_modules
+/CRUD App/client/node_modules
+/CRUD App/server/node_modules
 /.pnp
 .pnp.js
 
